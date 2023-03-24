@@ -1,0 +1,29 @@
+
+`	java:S112t"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+K
+java:S3740ƒ"/Provide the parametrized type for this generic.(âÚŞ‹ûÿÿÿÿ
+s	java:S135\"YReduce the total number of break and continue statements in this loop to use at most one.(íôÚÇşÿÿÿÿ
+K
+java:S1141a"5Extract this nested try block into a separate method.(¥‹Š×
+f	java:S116"QRename this field "OkPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÑß
+V	java:S125$"<This block of commented-out lines of code should be removed.(ƒåÏÏúÿÿÿÿ
+^
+java:S32529"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœx
+m
+java:S3776A"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(¼ Òşüÿÿÿÿ
+|
+java:S2178F"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(ï£™
+|
+java:S2178E"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(‹ˆÚˆ
+|
+java:S2178E"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(‹ˆÚˆ
+p
+java:S2159F"ZRemove this call to "equals"; comparisons between an array and a type always return false.(ï£™
+p
+java:S2159F"ZRemove this call to "equals"; comparisons between an array and a type always return false.(ï£™
+u
+java:S2159K"ZRemove this call to "equals"; comparisons between an array and a type always return false.(èëÓÓúÿÿÿÿ
+p
+java:S2159M"ZRemove this call to "equals"; comparisons between an array and a type always return false.(®¹á–
+Œ
+java:S2159P"qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(Úæ„Şûÿÿÿÿ

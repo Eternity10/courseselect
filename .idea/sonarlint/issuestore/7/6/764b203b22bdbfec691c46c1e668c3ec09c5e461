@@ -1,0 +1,36 @@
+
+[
+java:S1192D"FDefine a constant instead of duplicating this literal "grade" 3 times.(€ëÌ*
+R
+java:S4973d"<Strings and Boxed types should be compared using "equals()".(ÓÈá¤
+W
+java:S4973g"<Strings and Boxed types should be compared using "equals()".(œ’Ùşÿÿÿÿ
+R
+java:S4973k"<Strings and Boxed types should be compared using "equals()".(ºêïô
+W
+java:S4973o"<Strings and Boxed types should be compared using "equals()".(Ğ¯‡òşÿÿÿÿ
+_
+java:S2259@"BA "NullPointerException" could be thrown; "stmt" is nullable here.(Æò×å8ô•ïç0
+e
+java:S2095¢"GUse try-with-resources or close this "Statement" in a "finally" clause.(œïì”8½¬¡ïç0
+e
+java:S2095ƒ"GUse try-with-resources or close this "Statement" in a "finally" clause.(œïì”8áÖ ïç0
+D
+java:S1948".Make "columnValues" transient or serializable.(ïÙİå
+>
+java:S16591"#Declare "index" on a separate line.(…¸ùÈøÿÿÿÿ
+M
+java:S1135v"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+m
+java:S3776{"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ü¡Ãùÿÿÿÿ
+>
+java:S1659"#Declare "index" on a separate line.(…¸ùÈøÿÿÿÿ
+L
+java:S1128"/Remove this unused import 'java.awt.Component'.(Ÿğ¯ö8ì£ïç0
+R
+java:S1128"0Remove this unused import 'java.awt.FlowLayout'.(Íğç¢ÿÿÿÿÿ8í£ïç0
+C
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8í£ïç0
+\
+java:S1128
+"@Remove this unused import 'javax.swing.table.TableCellRenderer'.(É¡“8í£ïç0

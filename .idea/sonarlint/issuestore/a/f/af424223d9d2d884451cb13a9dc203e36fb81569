@@ -1,0 +1,9 @@
+
+q	java:S116"WRename this field "logout_panel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ã‘Žüÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ñ´áŠüÿÿÿÿ
+g
+java:S3252"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(ÑÓŸƒûÿÿÿÿ
+;
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©
+F
+java:S1128"+Remove this unused import 'java.awt.event'.(Ã®ÎÙÿÿÿÿÿ

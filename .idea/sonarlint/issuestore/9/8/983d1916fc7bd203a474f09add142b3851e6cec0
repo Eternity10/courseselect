@@ -1,0 +1,49 @@
+
+v
+java:S1192Y"`Define a constant instead of duplicating this literal "(select cno from sc where sno='" 4 times.(ñ˜¨é
+S
+java:S4973•"<Strings and Boxed types should be compared using "equals()".(¦¼ó‡
+S
+java:S4973˜"<Strings and Boxed types should be compared using "equals()".(’ÙŠ
+e
+java:S2259‚"BA "NullPointerException" could be thrown; "stmt" is nullable here.(Ç¸‰Ğúÿÿÿÿ8ğ¨€ïç0
+d
+java:S2259a"BA "NullPointerException" could be thrown; "stmt" is nullable here.(ï —…øÿÿÿÿ8å—‚ïç0
+J
+java:S1659-"/Declare "valuesNotSelected" on a separate line.(İ¿–ßüÿÿÿÿ
+D
+java:S1659/".Declare "modelNotSelected" on a separate line.(ôÂÓº
+K
+java:S1948-"0Make "valuesSelected" transient or serializable.(İ¿–ßüÿÿÿÿ
+N
+java:S1948-"3Make "valuesNotSelected" transient or serializable.(İ¿–ßüÿÿÿÿ
+5
+java:S1659Q"Declare "i" on a separate line.(åè¹õ
+5
+java:S1659r"Declare "i" on a separate line.(åè¹õ
+@
+java:S1659")Declare "rowSelected" on a separate line.(¼¢×Å
+@
+java:S1659¹")Declare "rowSelected" on a separate line.(¼¢×Å
+M
+java:S1128"0Remove this unused import 'java.awt.EventQueue'.(ùÅØæ8‚…ïç0
+Q
+java:S1128"/Remove this unused import 'javax.swing.JFrame'.(ßŒŸûùÿÿÿÿ8‚…ïç0
+]
+java:S1128";Remove this unused import 'javax.swing.border.EmptyBorder'.(ÿÍ“ûÿÿÿÿ8‚…ïç0
+B
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8‚…ïç0
+P
+java:S1128"3Remove this unused import 'java.sql.DriverManager'.(“£°8ƒ…ïç0
+V
+java:S1128"4Remove this unused import 'javax.swing.GroupLayout'.(±¢÷Öıÿÿÿÿ8ƒ…ïç0
+`
+java:S1128">Remove this unused import 'javax.swing.GroupLayout.Alignment'.( ÊØûÿÿÿÿ8ƒ…ïç0
+i
+java:S1128"GRemove this unused import 'javax.swing.LayoutStyle.ComponentPlacement'.(Š³õÿşÿÿÿÿ8ƒ…ïç0
+P
+java:S1128"3Remove this unused import 'javax.swing.JTextField'.(İË—8ƒ…ïç0
+T
+java:S1128"2Remove this unused import 'javax.swing.JTextArea'.(ô„ûìıÿÿÿÿ8ƒ…ïç0
+X
+java:S1128"<Remove this unused import 'javax.swing.ScrollPaneConstants'.(•íé8ƒ…ïç0

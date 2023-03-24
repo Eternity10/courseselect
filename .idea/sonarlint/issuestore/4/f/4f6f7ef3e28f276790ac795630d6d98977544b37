@@ -1,0 +1,21 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë£¿†
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥©¸é
+W
+java:S1141h"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÂÁ©ïç0
+X
+java:S1141Š"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÂÁ©ïç0
+R
+java:S4973J"<Strings and Boxed types should be compared using "equals()".(ðÌ²–
+^
+java:S4973K"<Strings and Boxed types should be compared using "equals()".(šÞ‘Õúÿÿÿÿ8ÃÁ©ïç0
+^
+java:S4973Q"<Strings and Boxed types should be compared using "equals()".(±êæºÿÿÿÿÿ8ÃÁ©ïç0
+E
+java:S1948"*Make "listener" transient or serializable.(ú«Õüûÿÿÿÿ
+K
+java:S1905c")Remove this unnecessary cast to "String".(¨·ìñùÿÿÿÿ8æÁ©ïç0
+L
+java:S1905„")Remove this unnecessary cast to "String".(¨·ìñùÿÿÿÿ8éÁ©ïç0
