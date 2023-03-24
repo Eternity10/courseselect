@@ -1,0 +1,4 @@
+
+}
+java:S1488"bImmediately return this expression instead of assigning it to the temporary variable "connection".(¹»­èúÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(îó¬“

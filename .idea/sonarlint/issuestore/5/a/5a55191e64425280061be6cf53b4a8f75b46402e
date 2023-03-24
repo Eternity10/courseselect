@@ -1,0 +1,17 @@
+
+S
+java:S4973†"<Strings and Boxed types should be compared using "equals()".(Û¬…‚
+X
+java:S4973‰"<Strings and Boxed types should be compared using "equals()".(Õ‹”ƒúÿÿÿÿ
+X
+java:S4973Œ"<Strings and Boxed types should be compared using "equals()".(È¯¥Ûúÿÿÿÿ
+S
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¬€¡Ú
+X
+java:S4973’"<Strings and Boxed types should be compared using "equals()".(Ğ¯‡òşÿÿÿÿ
+d
+java:S2259B"BA "NullPointerException" could be thrown; "stmt" is nullable here.(Êî²İıÿÿÿÿ8Éµïç0
+D
+java:S1948".Make "columnValues" transient or serializable.(ïÙİå
+>
+java:S16592"#Declare "index" on a separate line.(…¸ùÈøÿÿÿÿ

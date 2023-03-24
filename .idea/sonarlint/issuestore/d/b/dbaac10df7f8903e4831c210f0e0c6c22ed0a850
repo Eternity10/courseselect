@@ -1,0 +1,25 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ÈıÄşÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ÈıÄşÿÿÿÿ
+J
+java:S3740W"/Provide the parametrized type for this generic.(âÚŞ‹ûÿÿÿÿ
+c
+java:S3008#"MRename this field "OK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÙÈë
+g
+java:S3008$"QRename this field "CANCEL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÑ¼â
+Z
+java:S1659"?Declare "p2" and all following declarations on a separate line.(¹ÎÇ¨ûÿÿÿÿ
+B
+java:S1948""'Make "image" transient or serializable.(Âëö×øÿÿÿÿ
+^
+java:S3252I"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœx
+m
+java:S3776^"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(¼ Òşüÿÿÿÿ
+u
+java:S2159e"ZRemove this call to "equals"; comparisons between an array and a type always return false.(ùîü¹ÿÿÿÿÿ
+R
+java:S2696‡"6Make the enclosing method "static" or remove this set.(è×¸øıÿÿÿÿ
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(Àÿ¢ïÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ì¯ÔK

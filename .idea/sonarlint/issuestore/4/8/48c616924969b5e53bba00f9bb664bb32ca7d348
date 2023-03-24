@@ -1,0 +1,13 @@
+
+k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÔÇÄıÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á‘¸«şÿÿÿÿ
+k	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á‘¸«şÿÿÿÿ
+C
+java:S1604"(Make this anonymous inner class a lambda(ïñ¶ıÿÿÿÿ
+C
+java:S1604""(Make this anonymous inner class a lambda(ïñ¶ıÿÿÿÿ
+q	java:S116"WRename this field "main_windows" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öØÈùşÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ
+œ
+java:S11860"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ü¡Ãùÿÿÿÿ
